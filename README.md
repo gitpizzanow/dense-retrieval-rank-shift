@@ -1,6 +1,6 @@
 # Experimental Workflow: Dense Retrieval Dimensionality
 
-This document outlines the code sections inside `conf (5).ipynb` and explains the scientific narrative behind the experiments. It details why we started with one approach, why we pivoted, and how we arrived at our final conclusions for the IEEE paper.
+This document outlines the code sections inside `rank_shift_analysis.ipynb` and explains the scientific narrative behind the experiments. It details why we started with one approach, why we pivoted, and how we arrived at our final conclusions for the IEEE paper.
 
 ---
 
